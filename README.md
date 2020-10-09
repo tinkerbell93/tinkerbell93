@@ -3,6 +3,7 @@
 - 🥅 2020 Goals: Focus on the basics.
 - 🌱 I’m currently learning React and TypeScript!
 - ✨ Fun fact: I love to draw and commnication <3
+- 💌 contact: [hhjj105@gmail.com](hhjj105@gmail.com)
 
 ### Languages and Tools
 
