@@ -1,8 +1,8 @@
 ### Hi there, I'm Gahyun 🧚‍♀️
 
-- 🥅 2020 Goals: Focus on the basics.
+- 🥅 2020 Goal: Focus on the basics.
 - 🌱 I’m currently learning React and TypeScript!
-- ✨ Fun fact: I love to draw and commnication <3
+- ✨ Fun fact: I love to draw and communication <3
 - 💌 contact: [hhjj105@gmail.com](hhjj105@gmail.com)
 
 ### Languages and Tools
