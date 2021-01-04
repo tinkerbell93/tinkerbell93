@@ -1,9 +1,10 @@
 ### Hi there, I'm Gahyun 🧚‍♀️
 
-- 🥅 2020 Goal: Focus on the basics.
-- 🌱 I’m currently learning React and TypeScript!
+- 🥅 2021 Goal: Focus on the basics.
+- 🌱 I’m currently learning Vue and TypeScript!
 - ✨ Fun fact: I love to draw and communication <3
-- 💌 contact: [hhjj105@gmail.com](hhjj105@gmail.com)
+- 📚 blog: [@dev-tinkerbell](https://velog.io/@dev-tinkerbell)
+- 💌 contact: [tinkerbell93.gmail.com](tinkerbell93.gmail.com)
 
 ### Languages and Tools
 
