@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Vue and TypeScript!
 - ✨ Fun fact: I love to draw and communication <3
 - 📚 blog: [@dev-tinkerbell](https://velog.io/@dev-tinkerbell)
-- 💌 contact: [tinkerbell93.gmail.com](tinkerbell93.gmail.com)
+- 💌 contact: [dev.tinkerbell.gmail.com](dev.tinkerbell.gmail.com)
 
 ### Languages and Tools
 
