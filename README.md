@@ -1,7 +1,7 @@
 ### Hi there, I'm Gahyun 🧚‍♀️
 
-- 🥅 2021 Goal: Focus on the basics.
-- 🌱 I’m currently learning Vue and TypeScript!
+- 🥅 2022 Goal: Focus on the basics.
+- 🌱 I’m currently learning Next js and TypeScript!
 - ✨ Fun fact: I love to draw and communication <3
 - 📚 blog: [@dev-tinkerbell](https://velog.io/@dev-tinkerbell)
 - 💌 contact: dev.tinkerbell.gmail.com
